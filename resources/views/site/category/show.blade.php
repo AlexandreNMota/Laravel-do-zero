@@ -1,0 +1,1 @@
+<p>Esta é a pagina da categoria {{$slug}}</p>
